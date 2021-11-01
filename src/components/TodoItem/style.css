@@ -1,0 +1,13 @@
+.todoItem li {
+    display: flex;
+}
+
+.todoItem p {
+    margin: 3px 3px;
+
+}
+
+.pX {
+    color: red;
+
+}
